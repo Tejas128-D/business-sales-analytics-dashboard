@@ -1,5 +1,7 @@
 # # # 📊 Business Sales Analytics Dashboard | SQL + Power BI
 
+![Dashboard Preview](dashboard_preview.png)
+
 ## Author
 
 **Tejas R**
